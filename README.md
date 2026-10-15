@@ -36,4 +36,4 @@ grafana.ini:
     allow_loading_unsigned_plugins: <plugin-id>   # scope this to exactly the plugin(s) you're installing — never a wildcard
 ```
 
-See `docs/packaging-a-plugin.md` for how to add a new plugin release here.
+See `docs/how-to-package-and-publish-a-grafana-plugin.md` for how to add a new plugin release here.
